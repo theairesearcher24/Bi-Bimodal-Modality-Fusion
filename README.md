@@ -1,4 +1,4 @@
-Bi-Bimodal Modality Fusion for Correlation-Controlled Multimodal Sentiment Analysis
+# Bi-Bimodal Modality Fusion for Correlation-Controlled Multimodal Sentiment Analysis
 
 Bi-Bimodal Fusion Network (BBFN):
 
